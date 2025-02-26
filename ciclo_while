@@ -1,0 +1,8 @@
+x=int(input("dime cuantas veces deseas imprimir tu nombre"))
+a=1
+while a <= 10: #ciclo
+    print (f"{x} * {a} = {x*a}")
+    a+=1
+    '''hola mundo
+    entero de mexico
+    y sus alrededores''' 
